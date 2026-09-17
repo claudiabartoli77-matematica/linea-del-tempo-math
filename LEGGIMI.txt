@@ -1,0 +1,9 @@
+LINEA DEL TEMPO INTERATTIVA
+
+Per provare l’app: estrai tutto lo ZIP (tutti i file), poi apri index.html. I punti e la ricerca funzionano anche senza server. Per pubblicarla su GitHub Pages carica tutti i file estratti, allo stesso livello nella radice del repository, poi attiva Pages.
+
+Per aggiungere video o Panoee, modifica contenuti.json. Ogni persona ha videos (lista di {title,id,thumb}) e panoeeUrl (indirizzo HTTPS). Quando panoeeUrl è vuoto, il collegamento non compare. Dopo le modifiche, per la versione locale apribile con doppio clic, trasferisci gli stessi dati anche nella costante INLINE_DATA dentro index.html; sul sito pubblicato usa la medesima versione. I video sono caricati soltanto dopo consenso esplicito.
+
+La foto dell’aula è stata ingrandita e ottimizzata per l’apertura, ma non recupera dettagli assenti nell’originale. I ritratti si aprono dai file originali. Alcuni nuovi personaggi sono nella galleria, senza fingere che fossero già visibili nella fotografia. Il file «23-quello del binario» non è stato assegnato a una persona senza conferma del nome.
+
+Fonti biografiche per il controllo editoriale: https://mathshistory.st-andrews.ac.uk/ . Le schede sintetiche sono una prima stesura da rivedere prima della pubblicazione didattica.

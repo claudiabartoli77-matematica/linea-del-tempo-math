@@ -1,0 +1,622 @@
+{
+  "people": [
+    {
+      "id": "talete",
+      "name": "Talete",
+      "image": "1-Talete.webp",
+      "x": 96,
+      "y": 83,
+      "period": "VII–VI sec. a.C.",
+      "topic": "Geometria e misurazione",
+      "summary": "A Talete sono associati risultati sulla geometria dei triangoli e il racconto della misura dell’altezza di una piramide.",
+      "question": "Come potresti usare un’ombra per stimare un’altezza?",
+      "videos": [
+        {
+          "title": "Talete e la piramide",
+          "id": "1Wl39x8Idpw",
+          "thumb": "talete e piramidi.webp"
+        },
+        {
+          "title": "Una seconda storia su Talete",
+          "id": "h-Y_MI3wbnA",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "pitagora",
+      "name": "Pitagora",
+      "image": "2-pitagora.webp",
+      "x": 90,
+      "y": 82,
+      "period": "VI sec. a.C.",
+      "topic": "Numeri e triangoli",
+      "summary": "La scuola pitagorica studiò i rapporti numerici e le relazioni tra i lati dei triangoli rettangoli.",
+      "question": "Quali misure ti servono per riconoscere un triangolo rettangolo?",
+      "videos": [
+        {
+          "title": "Pitagora",
+          "id": "StPYf3s98Dk",
+          "thumb": null
+        },
+        {
+          "title": "Un’idea di Pitagora in viaggio",
+          "id": "OknrjG94vS0",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": "https://read.bookcreator.com/ofc8qJUI6DaotzRIohR3Rklf9YG3/Jg6_6G-WS6GCZJs_tWj1ng"
+    },
+    {
+      "id": "eraclito",
+      "name": "Eraclito",
+      "image": "2-bis eraclito.webp",
+      "x": 92,
+      "y": 55,
+      "period": "VI–V sec. a.C.",
+      "topic": "Il cambiamento",
+      "summary": "Il suo pensiero sul cambiamento invita a discutere come descriviamo un mondo che muta.",
+      "question": "Quale grandezza useresti per descrivere un cambiamento? ",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "zenone",
+      "name": "Zenone",
+      "image": "3-zenone.webp",
+      "x": 85,
+      "y": 82,
+      "period": "V sec. a.C.",
+      "topic": "Paradossi del movimento",
+      "summary": "I suoi paradossi, tra cui Achille e la tartaruga, mettono alla prova le idee di spazio, tempo e infinito.",
+      "question": "Achille può raggiungere la tartaruga? Spiega il tuo ragionamento.",
+      "videos": [
+        {
+          "title": "Achille e la tartaruga",
+          "id": "RZ6h9rWqeKU",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "socrate",
+      "name": "Socrate",
+      "image": "4-socrate.webp",
+      "x": 80,
+      "y": 82,
+      "period": "V sec. a.C.",
+      "topic": "Domande e ragionamento",
+      "summary": "Il dialogo socratico pone le domande al centro della ricerca e della discussione delle idee.",
+      "question": "Quale domanda faresti per capire se una regola vale sempre?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "democrito",
+      "name": "Democrito",
+      "image": "5-democrito.webp",
+      "x": 75,
+      "y": 82,
+      "period": "V–IV sec. a.C.",
+      "topic": "Pensare la materia",
+      "summary": "È ricordato per l’atomismo; nella storia della matematica antica è legato anche a questioni sui volumi dei solidi.",
+      "question": "Come confronteresti il volume di due solidi?",
+      "videos": [
+        {
+          "title": "La storia di Democrito",
+          "id": "o_aUXHNdSOc",
+          "thumb": "democrito-storytelling.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "platone",
+      "name": "Platone",
+      "image": "6-platone.webp",
+      "x": 70,
+      "y": 82,
+      "period": "V–IV sec. a.C.",
+      "topic": "Forme e dimostrazioni",
+      "summary": "La sua scuola diede grande rilievo alla geometria e al ragionamento dimostrativo.",
+      "question": "Che differenza c’è tra osservare una figura e dimostrare una proprietà?",
+      "videos": [
+        {
+          "title": "Platone",
+          "id": "h0p4nLwh_y0",
+          "thumb": "Platone(1).webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "eudosso",
+      "name": "Eudosso",
+      "image": "eudosso.webp",
+      "x": 65,
+      "y": 82,
+      "period": "IV sec. a.C.",
+      "topic": "Proporzioni ed esaustione",
+      "summary": "La teoria delle proporzioni e il metodo di esaustione sono associati al suo lavoro e alla tradizione geometrica greca.",
+      "question": "Come puoi avvicinarti all’area di un cerchio usando poligoni?",
+      "videos": [
+        {
+          "title": "Eudosso",
+          "id": "wLB2L3wEhVM",
+          "thumb": "eudosso-libro.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "aristotele",
+      "name": "Aristotele",
+      "image": "aristotele.webp",
+      "x": 60,
+      "y": 82,
+      "period": "IV sec. a.C.",
+      "topic": "Logica e argomentazione",
+      "summary": "Lo studio della logica e dei sillogismi ha influenzato il modo di organizzare le argomentazioni.",
+      "question": "Una conclusione segue davvero dalle premesse? Prova a inventare un esempio.",
+      "videos": [
+        {
+          "title": "Aristotele",
+          "id": "Uvbu1VrvKxI",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "euclide",
+      "name": "Euclide",
+      "image": "7-euclide_.webp",
+      "x": 55,
+      "y": 82,
+      "period": "III sec. a.C.",
+      "topic": "Gli Elementi",
+      "summary": "Negli Elementi organizza definizioni, postulati e dimostrazioni in un’opera fondamentale della geometria.",
+      "question": "Da quali ipotesi parti per dimostrare una proprietà?",
+      "videos": [
+        {
+          "title": "Euclide",
+          "id": "UwHqrfTZjMs",
+          "thumb": "euclide(1).webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "archimede",
+      "name": "Archimede",
+      "image": "8-archimede.webp",
+      "x": 49,
+      "y": 82,
+      "period": "III sec. a.C.",
+      "topic": "Aree, volumi e leve",
+      "summary": "Studiò aree e volumi, l’equilibrio delle leve e problemi relativi ai corpi immersi nei liquidi.",
+      "question": "Come misureresti il volume di un oggetto irregolare?",
+      "videos": [
+        {
+          "title": "Il metodo di esaustione",
+          "id": "0Djl2nY1odQ",
+          "thumb": "archimede esaustione(3).webp"
+        },
+        {
+          "title": "La corona di Gerone",
+          "id": "nws2H5r5TyA",
+          "thumb": "Archimede e la corona del re gerone.webp"
+        },
+        {
+          "title": "L’universo di sabbia",
+          "id": "03-3B2Mox8E",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "apollonio",
+      "name": "Apollonio",
+      "image": "apollonio.webp",
+      "x": 43,
+      "y": 82,
+      "period": "III–II sec. a.C.",
+      "topic": "Le coniche",
+      "summary": "La sua opera sulle sezioni coniche sviluppa lo studio di ellisse, parabola e iperbole.",
+      "question": "Che forme ottieni tagliando un cono in modi diversi?",
+      "videos": [
+        {
+          "title": "Apollonio",
+          "id": "TMQ81UHFJi4",
+          "thumb": "Apollonio-story.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "eratostene",
+      "name": "Eratostene",
+      "image": "9-eratostene.webp",
+      "x": 37,
+      "y": 82,
+      "period": "III–II sec. a.C.",
+      "topic": "Numeri primi e Terra",
+      "summary": "È ricordato per il crivello dei numeri primi e per la stima della circonferenza terrestre.",
+      "question": "Come useresti due ombre in luoghi diversi per ragionare sulla Terra?",
+      "videos": [
+        {
+          "title": "Il crivello",
+          "id": "huQlt7OHAg4",
+          "thumb": "eratostene e il crivello.webp"
+        },
+        {
+          "title": "La circonferenza della Terra",
+          "id": "zHbMVkb8E2w",
+          "thumb": "eratostene1.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "ipparco",
+      "name": "Ipparco",
+      "image": "ipparco.webp",
+      "x": 32,
+      "y": 82,
+      "period": "II sec. a.C.",
+      "topic": "Astronomia e geometria",
+      "summary": "L’astronomia antica e le tecniche geometriche per studiare il cielo sono associate al suo lavoro.",
+      "question": "Come misureresti un angolo nel cielo?",
+      "videos": [
+        {
+          "title": "Ipparco",
+          "id": "nByejyjgqe0",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "erone",
+      "name": "Erone",
+      "image": "Erone.webp",
+      "x": 27,
+      "y": 82,
+      "period": "I sec. d.C. circa",
+      "topic": "Geometria e invenzioni",
+      "summary": "La formula che porta il suo nome permette di trovare l’area di un triangolo conoscendo i tre lati.",
+      "question": "Conosci i tre lati: come troveresti l’area senza misurare l’altezza?",
+      "videos": [
+        {
+          "title": "Erone e la luce",
+          "id": "ruU_MBjMd10",
+          "thumb": "intervisteErone.webp"
+        },
+        {
+          "title": "La formula di Erone",
+          "id": "XmSBEkN4ArI",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "fibonacci",
+      "name": "Fibonacci",
+      "image": "10-fibonacci.webp",
+      "x": 48,
+      "y": 76,
+      "period": "XII–XIII sec.",
+      "topic": "Numeri e calcolo",
+      "summary": "Nel Liber abaci presentò e diffuse in Europa latina metodi di calcolo con le cifre indo-arabiche.",
+      "question": "Perché il valore posizionale facilita i calcoli?",
+      "videos": [
+        {
+          "title": "Fibonacci",
+          "id": "HyUFOGBr63Q",
+          "thumb": "fibonacci.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "cartesio",
+      "name": "Cartesio",
+      "image": "11-Cartesio.webp",
+      "x": 44,
+      "y": 77,
+      "period": "XVII sec.",
+      "topic": "Coordinate e geometria",
+      "summary": "Il suo lavoro collega algebra e geometria attraverso l’uso delle coordinate.",
+      "question": "Come indicheresti senza ambiguità la posizione di una mosca sul soffitto?",
+      "videos": [
+        {
+          "title": "Cartesio e la mosca",
+          "id": "QfFw9Q2r35Q",
+          "thumb": "cartesio e la mosca.webp"
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "galilei",
+      "name": "Galileo Galilei",
+      "image": "11-bis galilei.webp",
+      "x": 44,
+      "y": 52,
+      "period": "XVI–XVII sec.",
+      "topic": "Matematica e natura",
+      "summary": "Usò misure e strumenti matematici per studiare fenomeni fisici e il movimento.",
+      "question": "Quale misura ripeteresti per studiare la caduta di un corpo?",
+      "videos": [
+        {
+          "title": "Galileo",
+          "id": "ALrajpw2QfI",
+          "thumb": null
+        }
+      ],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "fermat",
+      "name": "Fermat",
+      "image": "12-Fermat.webp",
+      "x": 40,
+      "y": 77,
+      "period": "XVII sec.",
+      "topic": "Numeri e problemi",
+      "summary": "Contribuì alla teoria dei numeri e allo sviluppo di metodi per studiare massimi e minimi.",
+      "question": "Quando un esempio basta a dimostrare una regola generale?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "newton",
+      "name": "Newton",
+      "image": "12-bis-Newon.webp",
+      "x": 40,
+      "y": 52,
+      "period": "XVII–XVIII sec.",
+      "topic": "Variazioni e movimento",
+      "summary": "Sviluppò strumenti matematici per descrivere le variazioni e formulò leggi del movimento.",
+      "question": "Come descriveresti una velocità che cambia?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "pascal",
+      "name": "Pascal",
+      "image": "13-Pascal.webp",
+      "x": 36,
+      "y": 77,
+      "period": "XVII sec.",
+      "topic": "Probabilità e triangolo",
+      "summary": "Lavorò su problemi di probabilità e sul triangolo aritmetico che porta il suo nome.",
+      "question": "Quanti modi ci sono per ottenere due teste in tre lanci?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "leibniz",
+      "name": "Leibniz",
+      "image": "14-Leibniz.webp",
+      "x": 32,
+      "y": 77,
+      "period": "XVII–XVIII sec.",
+      "topic": "Calcolo e simboli",
+      "summary": "Sviluppò il calcolo differenziale e integrale e una notazione ancora usata.",
+      "question": "Perché scegliere buoni simboli aiuta a ragionare?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "rolle",
+      "name": "Rolle",
+      "image": "14-bis Rolle.webp",
+      "x": 32,
+      "y": 52,
+      "period": "XVII–XVIII sec.",
+      "topic": "Un teorema sulle funzioni",
+      "summary": "Il teorema di Rolle descrive una condizione che garantisce una tangente orizzontale in un intervallo.",
+      "question": "Se parti e arrivi alla stessa quota, devi sempre fermarti?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "eulero",
+      "name": "Eulero",
+      "image": "15-Eulero.webp",
+      "x": 27,
+      "y": 77,
+      "period": "XVIII sec.",
+      "topic": "Reti, funzioni e simboli",
+      "summary": "Contribuì a molti campi della matematica, tra cui teoria dei numeri, grafi e analisi.",
+      "question": "Puoi attraversare ogni ponte una sola volta?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "lagrange",
+      "name": "Lagrange",
+      "image": "16-Lagrange.webp",
+      "x": 24,
+      "y": 77,
+      "period": "XVIII–XIX sec.",
+      "topic": "Analisi e meccanica",
+      "summary": "Sviluppò strumenti di analisi e formulazioni matematiche della meccanica.",
+      "question": "Come puoi esprimere un problema fisico con una funzione?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "cauchy",
+      "name": "Cauchy",
+      "image": "16-bis Cauchy.webp",
+      "x": 24,
+      "y": 52,
+      "period": "XVIII–XIX sec.",
+      "topic": "Rigore nell’analisi",
+      "summary": "Diede un contributo decisivo alla formalizzazione dei concetti di limite e continuità.",
+      "question": "Che cosa significa avvicinarsi sempre più a un valore?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "gauss",
+      "name": "Gauss",
+      "image": "17-Gauss.webp",
+      "x": 20,
+      "y": 77,
+      "period": "XVIII–XIX sec.",
+      "topic": "Numeri e forme",
+      "summary": "Lavorò in teoria dei numeri, geometria, statistica e molti altri campi.",
+      "question": "Come sommeresti rapidamente i numeri da uno a cento?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "riemann",
+      "name": "Riemann",
+      "image": "17 bis Riemann.webp",
+      "x": 20,
+      "y": 52,
+      "period": "XIX sec.",
+      "topic": "Nuove geometrie",
+      "summary": "Studiò geometria, analisi e proprietà della funzione zeta.",
+      "question": "Su una superficie curva, quale può essere il cammino più breve?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "einstein",
+      "name": "Einstein",
+      "image": "17-tris Einstein.webp",
+      "x": 23,
+      "y": 33,
+      "period": "XIX–XX sec.",
+      "topic": "Spazio e tempo",
+      "summary": "Le sue teorie della relatività hanno dato alla geometria un ruolo centrale nella descrizione dello spazio e del tempo.",
+      "question": "Come cambiano le nostre misure se cambia il sistema di riferimento?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "weierstrass",
+      "name": "Weierstrass",
+      "image": "18-Weierstrass.webp",
+      "x": 17,
+      "y": 77,
+      "period": "XIX sec.",
+      "topic": "Continuità e rigore",
+      "summary": "Contribuì a dare definizioni rigorose ai concetti fondamentali dell’analisi.",
+      "question": "Può una curva continua non avere una tangente?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "cantor",
+      "name": "Cantor",
+      "image": "19-Cantor.webp",
+      "x": 13,
+      "y": 77,
+      "period": "XIX–XX sec.",
+      "topic": "Gli infiniti",
+      "summary": "Fondò la teoria degli insiemi e studiò il confronto tra insiemi infiniti.",
+      "question": "Tutti gli insiemi infiniti hanno lo stesso numero di elementi?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "hilbert",
+      "name": "Hilbert",
+      "image": "19-bis Hilbert.webp",
+      "x": 13,
+      "y": 52,
+      "period": "XIX–XX sec.",
+      "topic": "Problemi e fondamenti",
+      "summary": "I suoi problemi del 1900 orientarono molta ricerca matematica del Novecento.",
+      "question": "Come sceglieresti una domanda capace di aprire una nuova ricerca?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "ramanujan",
+      "name": "Ramanujan",
+      "image": "20-Ramanujan.webp",
+      "x": 10,
+      "y": 77,
+      "period": "XIX–XX sec.",
+      "topic": "Numeri e serie",
+      "summary": "Trovò risultati originali in teoria dei numeri, serie e frazioni continue.",
+      "question": "Che cosa puoi scoprire osservando regolarità tra numeri?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "turing",
+      "name": "Turing",
+      "image": "20-bis Turing.webp",
+      "x": 10,
+      "y": 52,
+      "period": "XX sec.",
+      "topic": "Calcolo e algoritmi",
+      "summary": "Il modello di macchina che porta il suo nome aiuta a studiare ciò che può essere calcolato da un algoritmo.",
+      "question": "Come scriveresti istruzioni precise per un compito?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    },
+    {
+      "id": "godel",
+      "name": "Gödel",
+      "image": "22-Godel.webp",
+      "x": 7,
+      "y": 77,
+      "period": "XX sec.",
+      "topic": "Limiti dei sistemi formali",
+      "summary": "I suoi teoremi di incompletezza mostrarono limiti di certi sistemi formali sufficientemente espressivi.",
+      "question": "Qual è la differenza tra una regola e una frase dimostrabile?",
+      "videos": [],
+      "panoeeUrl": "",
+      "bookUrl": ""
+    }
+  ],
+  "unidentifiedImage": "23-quello del binario.webp",
+  "introVideo": "linea-del-tempo-matematici-in-aula-video.mp4"
+}
