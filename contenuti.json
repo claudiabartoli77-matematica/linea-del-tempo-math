@@ -22,8 +22,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a203331c640442cd60dbc59",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "pitagora",
@@ -47,8 +48,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": "https://read.bookcreator.com/ofc8qJUI6DaotzRIohR3Rklf9YG3/Jg6_6G-WS6GCZJs_tWj1ng"
+      "panoeeUrl": "https://tour.panoee.net/6a145482c0e7b30e55fac635/portici-pitagorici",
+      "bookUrl": "https://read.bookcreator.com/ofc8qJUI6DaotzRIohR3Rklf9YG3/Jg6_6G-WS6GCZJs_tWj1ng",
+      "extraEnvironments": []
     },
     {
       "id": "eraclito",
@@ -61,8 +63,9 @@
       "summary": "Il suo pensiero sul cambiamento invita a discutere come descriviamo un mondo che muta.",
       "question": "Quale grandezza useresti per descrivere un cambiamento? ",
       "videos": [],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a146ec0c0e7b38142faca9c",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "zenone",
@@ -81,8 +84,14 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": [
+        {
+          "title": "Zenone e Archimede",
+          "url": "https://tour.panoee.net/6a15b6c0eb8278f7bfd13338"
+        }
+      ]
     },
     {
       "id": "socrate",
@@ -96,7 +105,8 @@
       "question": "Quale domanda faresti per capire se una regola vale sempre?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "democrito",
@@ -115,8 +125,9 @@
           "thumb": "democrito-storytelling.webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "platone",
@@ -135,8 +146,9 @@
           "thumb": "Platone(1).webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "eudosso",
@@ -155,8 +167,9 @@
           "thumb": "eudosso-libro.webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "aristotele",
@@ -175,8 +188,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "euclide",
@@ -195,8 +209,9 @@
           "thumb": "euclide(1).webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14d332c0e7b33232fad782/1-viale-della-geometria-360",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "archimede",
@@ -225,8 +240,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a15b6c0eb8278f7bfd13338",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "apollonio",
@@ -245,8 +261,14 @@
           "thumb": "Apollonio-story.webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a203331c640442cd60dbc59",
+      "bookUrl": "",
+      "extraEnvironments": [
+        {
+          "title": "Esercizi su Apollonio",
+          "url": "https://tour.panoee.net/6a146a75e1501c5a7b7865d0"
+        }
+      ]
     },
     {
       "id": "eratostene",
@@ -270,8 +292,9 @@
           "thumb": "eratostene1.webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a203331c640442cd60dbc59",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "ipparco",
@@ -290,8 +313,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a203331c640442cd60dbc59",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "erone",
@@ -315,8 +339,9 @@
           "thumb": null
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a203331c640442cd60dbc59",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "fibonacci",
@@ -335,8 +360,9 @@
           "thumb": "fibonacci.webp"
         }
       ],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a8b55f1c319b383e5adda03",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "cartesio",
@@ -356,7 +382,8 @@
         }
       ],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "galilei",
@@ -376,7 +403,8 @@
         }
       ],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "fermat",
@@ -390,7 +418,8 @@
       "question": "Quando un esempio basta a dimostrare una regola generale?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "newton",
@@ -404,7 +433,8 @@
       "question": "Come descriveresti una velocità che cambia?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "pascal",
@@ -418,7 +448,8 @@
       "question": "Quanti modi ci sono per ottenere due teste in tre lanci?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "leibniz",
@@ -432,7 +463,8 @@
       "question": "Perché scegliere buoni simboli aiuta a ragionare?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "rolle",
@@ -446,7 +478,8 @@
       "question": "Se parti e arrivi alla stessa quota, devi sempre fermarti?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "eulero",
@@ -460,7 +493,8 @@
       "question": "Puoi attraversare ogni ponte una sola volta?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "lagrange",
@@ -474,7 +508,8 @@
       "question": "Come puoi esprimere un problema fisico con una funzione?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "cauchy",
@@ -488,7 +523,8 @@
       "question": "Che cosa significa avvicinarsi sempre più a un valore?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "gauss",
@@ -502,7 +538,8 @@
       "question": "Come sommeresti rapidamente i numeri da uno a cento?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "riemann",
@@ -515,8 +552,9 @@
       "summary": "Studiò geometria, analisi e proprietà della funzione zeta.",
       "question": "Su una superficie curva, quale può essere il cammino più breve?",
       "videos": [],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a14602ee1501c343b786464",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "einstein",
@@ -530,7 +568,8 @@
       "question": "Come cambiano le nostre misure se cambia il sistema di riferimento?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "weierstrass",
@@ -544,7 +583,8 @@
       "question": "Può una curva continua non avere una tangente?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "cantor",
@@ -557,8 +597,9 @@
       "summary": "Fondò la teoria degli insiemi e studiò il confronto tra insiemi infiniti.",
       "question": "Tutti gli insiemi infiniti hanno lo stesso numero di elementi?",
       "videos": [],
-      "panoeeUrl": "",
-      "bookUrl": ""
+      "panoeeUrl": "https://tour.panoee.net/6a1464c7c0e7b3b612fac8fb",
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "hilbert",
@@ -572,7 +613,8 @@
       "question": "Come sceglieresti una domanda capace di aprire una nuova ricerca?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "ramanujan",
@@ -586,7 +628,8 @@
       "question": "Che cosa puoi scoprire osservando regolarità tra numeri?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "turing",
@@ -600,7 +643,8 @@
       "question": "Come scriveresti istruzioni precise per un compito?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     },
     {
       "id": "godel",
@@ -614,7 +658,8 @@
       "question": "Qual è la differenza tra una regola e una frase dimostrabile?",
       "videos": [],
       "panoeeUrl": "",
-      "bookUrl": ""
+      "bookUrl": "",
+      "extraEnvironments": []
     }
   ],
   "unidentifiedImage": "23-quello del binario.webp",
